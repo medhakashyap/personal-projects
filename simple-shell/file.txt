@@ -1,0 +1,17 @@
+This is a simple shell.
+This is a simple shell.
+This is a simple shell.
+This is a simple shell.
+This is a simple shell.
+
+It is designed by Medha & Himanshu.
+It is designed by Medha & Himanshu.
+It is designed by Medha & Himanshu.
+It is designed by Medha & Himanshu.
+It is designed by Medha & Himanshu.
+
+This file is to test uniq command.
+This file is to test uniq command.
+This file is to test uniq command.
+This file is to test uniq command.
+This file is to test uniq command.
