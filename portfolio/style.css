@@ -303,8 +303,9 @@ section {
   background: #620E32;
   border-radius: 2rem;
   border: #FCDFEB 0.1rem solid;
-  border-color: #FCDFEB;
+  border-color: #C21460;
   text-align: center;
+  color: #ED5094;
 }
 
 .section-container {
@@ -325,7 +326,7 @@ section {
 }
 
 .experience-sub-title {
-  color: rgb(85, 85, 85);
+  color: #FCDFEB;
   font-weight: 600;
   font-size: 1.75rem;
   margin-bottom: 2rem;
@@ -364,24 +365,24 @@ article .icon {
 }
 
 .color-container {
-  border-color: rgb(163, 163, 163);
-  background: rgb(250, 250, 250);
+  border-color: #C21460;
+  background: #620E32;
 }
 
 .project-img {
-  border-radius: 2rem;
-  width: 90%;
-  height: 90%;
+  border-radius: 1.5rem;
+  width: 100%;
+  height: 100%;
 }
 
 .project-title {
   margin: 1rem;
-  color: black;
+  color: #FCDFEB;
 }
 
 .project-btn {
-  color: black;
-  border-color: rgb(163, 163, 163);
+  color: #ED5094;
+  border-color: #FCDFEB
 }
 
 /* CONTACT */
