@@ -1,4 +1,4 @@
-package com.example.demo1;
+package stickhero;
 import javafx.application.Application;
 import javafx.scene.Scene;
 import javafx.scene.control.Button;
