@@ -10,7 +10,7 @@ body {
     background-color: #ae9cff;
 }
 .container {
-    background-color: #ffffff;
+    background-color: white;
     width: 90vmin;
     position: absolute;
     transform: translate(-50%, -50%);
